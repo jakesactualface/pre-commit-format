@@ -1,0 +1,6 @@
+#!/bin/sh
+#
+# An example hook script to execute the pre-commit-format script.
+#
+# To enable this hook, rename this file to "pre-commit".
+"C:\path\to\pre-commit-format.sh"
